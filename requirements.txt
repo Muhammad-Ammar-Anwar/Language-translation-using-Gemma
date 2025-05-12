@@ -1,0 +1,9 @@
+langchain
+dotenv
+ipykernel
+langchain_groq
+langchain_core
+fastapi
+uvicorn
+langserve[all]
+streamlit 
